@@ -9,9 +9,9 @@ Built in **Power BI**, the dashboard visualizes key metrics to support business 
 ---
 
 ## 🔍 Key Insights
-- ⭐ **Top 10 rated and best-selling products**
+- ⭐ **Top 10 rated and discounted sales product**
 - 💰 **Relationship between price and customer rating**
-- 📦 **Category-wise sales distribution**
+- 📦 **category wise sales performance **
 - 🔻 **Discount vs. actual price comparison**
 
 ---
@@ -24,7 +24,7 @@ Built in **Power BI**, the dashboard visualizes key metrics to support business 
 ---
 
 ## 🏆 Achievement
-This project earned me the **Best Intern Award** during my internship at a startup,  
+This project earned me the **Best Intern Award** during my internship .  
 recognizing its **business value** and **data-driven approach**.
 
 ---
